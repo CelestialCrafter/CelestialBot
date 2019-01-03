@@ -1,5 +1,5 @@
-# CelestialBot
-CelestialBot's source code.
+# CelestialBotBeta
+CelestialBotBeta's source code.
 
 CelestialBot is a bot is a multipurpose bot for Fun commands, General commands
 Meme commands, And a bit of the essential moderation commands!
